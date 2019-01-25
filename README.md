@@ -16,3 +16,15 @@
 * **data wykonania:** 06.2016
 * **folder:** 2_DEA
 
+
+### Analiza portfelowa
+* **autor:** Agnieszka Kowalik
+* **dane:** [GPW](https://www.gpw.pl/)
+* **modele:** momentów próbkowych, Sharpe'a, Sharpe’a ze strukturą GARCH(1,1), VAR(1)-DCC(1,1)-GARCH(1,1)
+* **programy:** R (pakiety: rugarch, fGarch, rmgarch)
+* **uwagi:** projekt techniczny, bez interpretacji
+* **data wykonania:** 11.2015
+* **folder:** 3_Analiza_portfelowa
+
+
+
