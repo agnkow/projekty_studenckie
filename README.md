@@ -14,5 +14,5 @@
 * **dane:** [PlusLiga](http://www.plusliga.pl/)
 * **programy:** EMS (pomocniczo R)
 * **data wykonania:** 06.2016
-* **plik:** 2_DEA
+* **folder:** 2_DEA
 
