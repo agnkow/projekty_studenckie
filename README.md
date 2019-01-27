@@ -17,10 +17,9 @@
 * **folder:** 2_DEA
 
 
-### Analiza portfelowa
+### Analiza portfelowa z wkorzystaniem modelu Sharpe’a ze strukturą GARCH oraz modelu VAR-DCC-GARCH
 * **autor:** Agnieszka Kowalik
-* **dane:** [GPW](https://www.gpw.pl/)
-* **modele:** momentów próbkowych, Sharpe'a, Sharpe’a ze strukturą GARCH(1,1), VAR(1)-DCC(1,1)-GARCH(1,1)
+* **dane:** ceny (kursy zamknięcia) akcji PKN ORLEN, Orange Polska, KGHM Polska Miedź, PKO BP oraz indeksu WIG20 [(GPW)](https://www.gpw.pl/)
 * **programy:** R (pakiety: rugarch, fGarch, rmgarch)
 * **uwagi:** projekt techniczny, bez interpretacji
 * **data wykonania:** 11.2015
