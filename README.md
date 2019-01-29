@@ -19,7 +19,7 @@
 
 ### Analiza portfelowa z wkorzystaniem modelu Sharpe’a ze strukturą GARCH oraz modelu VAR-DCC-GARCH
 * **autor:** Agnieszka Kowalik
-* **dane:** ceny (kursy zamknięcia) akcji PKN ORLEN, Orange Polska, KGHM Polska Miedź, PKO BP oraz indeksu WIG20 [(GPW)](https://www.gpw.pl/)
+* **dane:** ceny (kursy zamknięcia) akcji PKN ORLEN, Orange Polska, KGHM Polska Miedź, PKO BP oraz indeksu WIG20 w okresie od 2006-01-02 do 2015-09-25 [(GPW)](https://www.gpw.pl/)
 * **programy:** R (pakiety: rugarch, fGarch, rmgarch)
 * **uwagi:** projekt techniczny, bez interpretacji
 * **data wykonania:** 11.2015
